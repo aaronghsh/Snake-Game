@@ -1,6 +1,6 @@
 # C++ Snake Game 🐍
 
-Welcome to the Snake Game project! This game is a modern take on the classic Snake game, designed using **Object-Oriented Design (OOD)** principles to ensure modularity, efficiency, and maintainability. It includes exciting gameplay mechanics such as multi-food spawning, special food generation, and dynamic player movement.
+This game is a modern take on the classic Snake game, designed using **Object-Oriented Design (OOD)** principles to ensure modularity, efficiency, and maintainability. It includes exciting gameplay mechanics such as multi-food spawning, special food generation, and dynamic player movement.
 
 ---
 
