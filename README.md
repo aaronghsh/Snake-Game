@@ -53,5 +53,3 @@ This game is a modern take on the classic Snake game, designed using **Object-Or
 - Include a leaderboard to track high scores.
 
 ---
-
-Enjoy playing the Snake Game! 🐍
